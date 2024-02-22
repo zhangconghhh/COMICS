@@ -1,1 +1,1 @@
-from .fcos import FCOS
+from .fcos_comics import FCOS
