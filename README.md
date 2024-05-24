@@ -33,9 +33,21 @@ To evaluate the model after training, run:
 ```
 sh eval_comics.sh
 ```
-\
 
-
+## Cite the paper
+If this work is helpful to you, please cite it as:</p>
+```
+@ARTICLE{comics24csvt,
+  title={COMICS: End-to-end Bi-grained Contrastive Learning for Multi-face Forgery Detection},
+  author={Cong Zhang, Honggang Qi, Shuhui Wang, Yuezun Li, Siwei Lyu},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  doi={}
+}
+```
 ## Acknowledgements
 
 The codes are modified from [AdelaiDet](https://github.com/aim-uofa/AdelaiDet). Thanks for their open source.
